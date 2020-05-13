@@ -257,10 +257,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clearData() {
-    /*firstMember.delete();
-    secondMember;
-    action;
-    resultStr;*/
+
     }
 
     public void addSymbol(String last) {
